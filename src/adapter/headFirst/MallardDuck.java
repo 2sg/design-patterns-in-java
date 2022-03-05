@@ -1,4 +1,4 @@
-package adapterPattern1;
+package adapter.headFirst;
 
 public class MallardDuck implements Duck {
 

@@ -1,4 +1,4 @@
-package adapterPattern;
+package adapter.wikibooks;
 
 public class ServiceA {
     void runServiceA() {

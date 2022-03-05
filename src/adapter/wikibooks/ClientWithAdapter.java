@@ -1,4 +1,4 @@
-package adapterPattern;
+package adapter.wikibooks;
 
 public class ClientWithAdapter {
     public static void main(String[] args) {
